@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sort on dyl&#39;s web page</title>
+    <link>https://dyanglou.github.io/tags/sort/</link>
+    <description>Recent content in sort on dyl&#39;s web page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-Hans</language>
+    <lastBuildDate>Tue, 21 Dec 2021 13:57:07 +0000</lastBuildDate><atom:link href="https://dyanglou.github.io/tags/sort/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>理解快速排序算法过程</title>
+      <link>https://dyanglou.github.io/posts/quick-sort/</link>
+      <pubDate>Tue, 21 Dec 2021 13:57:07 +0000</pubDate>
+      
+      <guid>https://dyanglou.github.io/posts/quick-sort/</guid>
+      <description>快排通常是一中非常高效的排序算法，并且其常规实现也非常简单，往往很容易理解其思路并写出实现码，前提是需要解决递归这种思考方式。 排序思路 # 开始的时候，我们从整个数列中“任意”找出一个数作为基准数(pivot)，接着拿剩余的数挨个与这个基准数比</description>
+    </item>
+    
+    <item>
+      <title>理解希尔排序算法过程</title>
+      <link>https://dyanglou.github.io/posts/shell-sort/</link>
+      <pubDate>Tue, 21 Dec 2021 12:19:34 +0000</pubDate>
+      
+      <guid>https://dyanglou.github.io/posts/shell-sort/</guid>
+      <description>之前的文章已经讲解了直接插入排序算法的过程，当时也指出了直接插入排序存在的问题：每插入一个元素都需要进行大量的移动操作，这导致这种算法的性能不算高。既然原因已经找到了，其它几种插入算法实际上都是针对这个问题提出了自己的优化方式。这篇文章就来</description>
+    </item>
+    
+  </channel>
+</rss>
